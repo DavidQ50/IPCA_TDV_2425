@@ -1,0 +1,6 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/IPCA/1º Ano/2º Semestre/TDV/Meu Repositório/Project1/Content/Character4.png","C:/IPCA/1º Ano/2º Semestre/TDV/Meu Repositório/Project1/Content/bin/DesktopGL/Content/Character4.xnb","TextureProcessor","Texture2DContent",1668,8817,0.1446091
+"C:/IPCA/1º Ano/2º Semestre/TDV/Meu Repositório/Project1/Content/Crate_Brown.png","C:/IPCA/1º Ano/2º Semestre/TDV/Meu Repositório/Project1/Content/bin/DesktopGL/Content/Crate_Brown.xnb","TextureProcessor","Texture2DContent",1064,16469,0.0067818
+"C:/IPCA/1º Ano/2º Semestre/TDV/Meu Repositório/Project1/Content/EndPoint_Yellow.png","C:/IPCA/1º Ano/2º Semestre/TDV/Meu Repositório/Project1/Content/bin/DesktopGL/Content/EndPoint_Yellow.xnb","TextureProcessor","Texture2DContent",565,4181,0.0086223
+"C:/IPCA/1º Ano/2º Semestre/TDV/Meu Repositório/Project1/Content/File.spritefont","C:/IPCA/1º Ano/2º Semestre/TDV/Meu Repositório/Project1/Content/bin/DesktopGL/Content/File.xnb","FontDescriptionProcessor","SpriteFontContent",2068,21535,0.3033918
+"C:/IPCA/1º Ano/2º Semestre/TDV/Meu Repositório/Project1/Content/Wall_Black.png","C:/IPCA/1º Ano/2º Semestre/TDV/Meu Repositório/Project1/Content/bin/DesktopGL/Content/Wall_Black.xnb","TextureProcessor","Texture2DContent",1437,16469,0.008839
